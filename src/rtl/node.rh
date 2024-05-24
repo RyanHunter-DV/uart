@@ -1,0 +1,2 @@
+component 'uart/rtl/uart/1.0' do
+end
